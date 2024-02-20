@@ -6,7 +6,7 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatMenuModule} from '@angular/material/menu';
 import { NavbarComponent } from './components/navbar/navbar.component';
-import { InicioComponent } from './inicio/inicio.component';
+import { InicioComponent } from './components/inicio/inicio.component';
 
 
 @Component({

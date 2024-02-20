@@ -4,7 +4,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatMenuModule } from '@angular/material/menu';
-import { ProgressbarComponent } from '../components/progressbar/progressbar.component';
+import { ProgressbarComponent } from '../progressbar/progressbar.component';
 
 
 @Component({
