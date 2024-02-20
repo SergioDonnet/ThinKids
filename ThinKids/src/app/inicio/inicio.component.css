@@ -1,0 +1,15 @@
+.resaltado {
+    color: blue; /* Color que deseas para la parte resaltada */
+}
+
+.footer{
+
+    background-color: black;
+    text-align: center;
+
+
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
